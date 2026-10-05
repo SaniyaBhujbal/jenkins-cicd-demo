@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jenkins CI/CD Docker Demo
 
 ## Project Overview
@@ -92,3 +93,52 @@ The Docker container was successfully created and the web application was deploy
 * Push Docker images to Docker Hub.
 * Add automated rollback and monitoring.
 * Extend the pipeline with additional testing stages.
+=======
+\# Jenkins CI/CD Docker Demo
+
+
+
+\## Project Overview
+
+
+
+This project demonstrates a basic CI/CD pipeline using Jenkins and Docker. The pipeline automatically builds a Docker image, tests the Nginx configuration, and deploys the application as a Docker container.
+
+
+
+\## Technologies Used
+
+
+
+
+# Jenkins CI/CD Docker Demo
+
+## Project Overview
+
+This project demonstrates a basic CI/CD pipeline using Jenkins and Docker. The pipeline automatically builds a Docker image, tests the Nginx configuration, and deploys the application as a Docker container.
+
+## Technologies Used
+
+- Jenkins
+- Docker
+- Git
+- GitHub
+- Nginx
+- HTML
+- Windows
+
+## Project Structure
+
+```text
+jenkins-cicd-demo/
+├── app/
+│   └── index.html
+├── Screenshots/
+│   ├── Jenkins_console_deploy.image.png
+│   ├── Jenkins_console_test.image.png
+│   ├── Jenkins_pipeline.image.png
+│   ├── Pipeline_script_scm.image.png
+│   └── Running_application_chrome.image.png
+├── Dockerfile
+├── Jenkinsfile
+└── README.md
