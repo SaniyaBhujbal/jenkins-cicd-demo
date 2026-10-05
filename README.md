@@ -30,24 +30,3 @@ jenkins-cicd-demo/
 ├── Dockerfile
 ├── Jenkinsfile
 └── README.md
-## Screenshots
-
-### Jenkins Pipeline
-
-![Jenkins Pipeline](Screenshots/Jenkins_pipeline.image.png)
-
-### Pipeline Configuration - SCM
-
-![Pipeline Configuration](Screenshots/Pipeline_script_scm.image.png)
-
-### Jenkins Console - Test
-
-![Jenkins Console Test](Screenshots/Jenkins_console_test.image.png)
-
-### Jenkins Console - Deploy
-
-![Jenkins Console Deploy](Screenshots/Jenkins_console_deploy.image.png)
-
-### Running Application
-
-![Running Application](Screenshots/Running_application_chrome.image.png)
